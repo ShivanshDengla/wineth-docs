@@ -9,7 +9,7 @@ winETH leverages the power of the PoolTogether protocol, allowing you to support
 The first beneficiary of winETH.org is Protocol Guild:
 
 ## Protocol Guild
-[Protocol Guild](https://https://protocol-guild.readthedocs.io/) is a collective that funds the work of Ethereum's core contributors, the people responsible for developing and safeguarding Ethereum’s Layer 1. Open-source work often lacks sustainable funding, but Protocol Guild changes that by ensuring that 181 (and growing) core contributors are financially supported, enabling them to focus on critical R&D.
+[Protocol Guild](https://www.protocolguild.org/) is a collective that funds the work of Ethereum's core contributors, the people responsible for developing and safeguarding Ethereum’s Layer 1. Open-source work often lacks sustainable funding, but Protocol Guild changes that by ensuring that 181 (and growing) core contributors are financially supported, enabling them to focus on critical R&D.
 
 By [depositing into winETH](https://wineth.org), you’re helping accelerate Ethereum’s open-source development.
 
